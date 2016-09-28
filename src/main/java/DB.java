@@ -1,4 +1,4 @@
-import org.sql20.*;
+import org.sql2o.*;
 
 
 public class DB {
